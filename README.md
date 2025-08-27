@@ -33,14 +33,14 @@ O sistema permite ao usuário cadastrar novos produtos de forma interativa, gara
 
 1.  **Clone o repositório (se estiver no GitHub):**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone [https://github.com/henriquedossantosduarte/Desenvolvendo-um-Sistema-de-Cadastro-de-Produtos-em-Python-intermediario-/edit/main/README.md]
     cd mini-sistema-cadastro-produtos
     ```
     *(Se você ainda não tem um repositório, pode simplesmente salvar o código em um arquivo `.py`)*
 
 2.  **Execute o script Python:**
     ```bash
-    python seu_arquivo_do_projeto.py
+    python exercicio3.py
     ```
 
 3.  **Siga as instruções no console:**
